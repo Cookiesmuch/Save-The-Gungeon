@@ -9,7 +9,6 @@ and the BePinEx plugin "Mod the gungeon" by MtG_API https://github.com/SpecialAP
 
 
 # Lead project developers:
----------------------------
 -TheDirector (Cookiesmuch)
 
 Mephisto
