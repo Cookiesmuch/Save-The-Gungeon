@@ -1,0 +1,6 @@
+[submodule "lib/BePinEx"]
+	path = lib/BePinEx
+	url = https://github.com/BepInEx/BepInEx.git
+[submodule "lib/ModTheGungeonAPI"]
+	path = lib/ModTheGungeonAPI
+	url = https://github.com/SpecialAPI/ModTheGungeonAPI.git
